@@ -1,0 +1,23 @@
+{
+  "name": "ssenodejs",
+  "version": "1.0.0",
+  "description": "Server sent Events",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tensajougan8/SSENodeJs.git"
+  },
+  "author": "Valdo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tensajougan8/SSENodeJs/issues"
+  },
+  "homepage": "https://github.com/tensajougan8/SSENodeJs#readme",
+  "dependencies": {
+    "express": "^4.18.2",
+    "serve": "^14.2.0"
+  }
+}
