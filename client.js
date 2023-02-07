@@ -1,4 +1,4 @@
-const eventSource = new EventSource('https://sse-node-js-git-main-tensajougan8.vercel.app')
+const eventSource = new EventSource('https://sse-node-js.vercel.app/')
 
 function updateMessage (message) {
   const list = document.getElementById('messages')
